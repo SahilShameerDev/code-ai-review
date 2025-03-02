@@ -63,7 +63,7 @@ const model = genAI.getGenerativeModel({
 
     At the end of the review, you invite the developer to ask questions and experiment with different approaches, making learning **interactive and enjoyable**! 🚀
 
-    Also add emojis and style the text to make it more engaging and fun! 🎉 add space after each majour headings to divide each section and make it more readable
+    Also add emojis and style the text to make it more engaging and fun! 🎉 add space after each majour headingscdnp to divide each section and make it more readable
     `,
 });
 
